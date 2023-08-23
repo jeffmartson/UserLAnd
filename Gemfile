@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
 gem "fastlane"
-gem "activesupport"
+gem "activesupport", ">= 6.1.7.5"
